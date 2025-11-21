@@ -369,6 +369,7 @@ system-config-printer
 
 # Bspwm
 bspwm
+feh
 
 # Xfce
 abiword
